@@ -4,6 +4,8 @@ const Card = ({ pelicula, anio }) => (
   <div>
     <h2>Información de la película:</h2>
     <label>
+
+      
       Película:
       <span>{pelicula}</span>
     </label>
